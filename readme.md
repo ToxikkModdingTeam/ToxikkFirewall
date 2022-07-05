@@ -22,6 +22,6 @@ The proxy itself shows the IP:port of clients connecting to it and to which port
 
 Usage
 ---
-ToxikkFirewall.exe <external-IP> <port1> [<port2> ...]
+ToxikkFirewall.exe \<external-IPv4\> \<port1\> [\<port2\> ...]
 
 where the port number is typically 7777
